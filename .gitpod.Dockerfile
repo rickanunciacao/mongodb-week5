@@ -1,1 +1,1 @@
-FROM gitpod/workspace-mongodb-week5
+FROM gitpod/workspace-mongodb
